@@ -1,4 +1,4 @@
-# Library-Management-System-in-C-
+# Library-Management-System-in-C#
 
 # 📚 Library Management System – C# .NET  
 A **powerful and efficient** Library Management System built with **C# and .NET**, designed to streamline book tracking, member management, and borrowing processes.  
